@@ -11,3 +11,6 @@
 #### Project Part-2:
 * [Project Part 2 Source Codes and Report](Project_Part-2/IE423_Project_part_2.html)
 * [Project Part 2 ipynb file](Project_Part-2/IE423_Project_part_2.ipynb)
+* [Project Part 2 Trading Simulation for GARAN and AKBNK with Linear Regression](Project_Part-2/trading_garan_akbnk_regression.xlsx)
+* [Project Part 2 Trading Simulation for KCHOL and YKBNK with Linear Regression](Project_Part-2/trading_kchol_ykbnk_regression.xlsx)
+* [Project Part 2 Trading Simulation for GARAN and AKBNK with Time Series Model](Project_Part-2/trading_garan_akbnk_arima.xlsx)
