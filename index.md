@@ -9,5 +9,5 @@
  
 
 #### Project Part-2:
-* [Project Part 2 Source Codes and Report](Project_Part-2/IE423_Project_Part_2_html.html)
-* [Project Part 2 ipynb file](Project_Part-2/IE423_Project_Part_2.ipynb)
+* [Project Part 2 Source Codes and Report](Project_Part-2/IE423_Project_part_2.html)
+* [Project Part 2 ipynb file](Project_Part-2/IE423_Project_part_2.ipynb)
