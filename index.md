@@ -20,4 +20,3 @@
 
 * [Project Part 3 Report](Project_Part-3/IE423_Part_3_Group_11_Report.pdf)
 * [Project Part 3 Source Codes](Project_Part-3/IE423_part3_source_code.ipynb)
-* 
